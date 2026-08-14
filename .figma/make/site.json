@@ -1,0 +1,10 @@
+{
+  "description": "Enhance your e-commerce experience with a visually refined catalog interface featuring AI-driven product recommendations tailored to user preferences.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
